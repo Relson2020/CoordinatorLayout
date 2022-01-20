@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoordinateLayout</string>
+    <string name="floatingButton">Floating button</string>
+</resources>
